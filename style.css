@@ -1,5 +1,21 @@
+
+/*---------------- Universal reset ----------------*/
 * {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
 }
+
+/*---------------- Utility styles ----------------*/
+.padded-1 {
+    padding: 1rem;
+}
+
+/*---------------- Header and footer styles ----------------*/
+header,
+footer,
+section {
+    padding: 5%;
+    border: 1px solid lightgray;
+}
+

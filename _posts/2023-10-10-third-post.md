@@ -1,10 +1,11 @@
 ---
-layout: default
-title: My first post
-categories: [travel, usa]
+layout: post
+title: My third post
+author: The four penguins
+categories: ['sports', 'ice-hockey']
 ---
 
-## Adventures in USA
+## Enjoy ice-hockey!
 
 Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatem dolore tenetur accusantium quasi. Culpa, earum dicta? Dolor quisquam consectetur placeat corrupti tenetur soluta itaque non deserunt labore, doloribus sapiente sint.
 

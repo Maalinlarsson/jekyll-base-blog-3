@@ -1,10 +1,11 @@
 ---
-layout: default
+layout: post
 title: My first post
-categories: [travel, canada]
+author: Pabben
+categories: ['travel', 'usa']
 ---
 
-## Adventures in Canada
+## Adventures in USA
 
 Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatem dolore tenetur accusantium quasi. Culpa, earum dicta? Dolor quisquam consectetur placeat corrupti tenetur soluta itaque non deserunt labore, doloribus sapiente sint.
 

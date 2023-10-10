@@ -1,10 +1,11 @@
 ---
-layout: default
-title: My first post
-categories: [sports, ice-hockey]
+layout: post
+title: My second post
+author: Pennanen
+categories: ['travel', 'canada']
 ---
 
-## Enjoy ice-hockey!
+## Adventures in Canada
 
 Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatem dolore tenetur accusantium quasi. Culpa, earum dicta? Dolor quisquam consectetur placeat corrupti tenetur soluta itaque non deserunt labore, doloribus sapiente sint.
 
