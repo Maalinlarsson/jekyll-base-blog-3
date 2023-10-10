@@ -1,8 +1,10 @@
 ---
 layout: post
 title: My third post
+description: Nam debitis, at incidunt, dicta doloribus est deleniti aspernatur maiores dignissimos soluta veritatis quaerat aliquam.
 author: The four penguins
 categories: ['sports', 'ice-hockey']
+featured_image: https://instituteofcode.com/houdini.jpg
 ---
 
 ## Enjoy ice-hockey!

@@ -1,8 +1,10 @@
 ---
 layout: post
 title: My second post
+description: Culpa, earum dicta? Dolor quisquam consectetur placeat corrupti tenetur soluta itaque non deserunt labore, doloribus sapiente sint.
 author: Pennanen
 categories: ['travel', 'canada']
+featured_image: https://instituteofcode.com/nala.jpg
 ---
 
 ## Adventures in Canada

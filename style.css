@@ -19,3 +19,32 @@ section {
     border: 1px solid lightgray;
 }
 
+/*---------------- Specific classes styles ----------------*/
+.intro {
+    text-transform: uppercase;
+    background-color: lightgrey;
+}
+
+.tag {
+    border: 1px solid;
+    padding: 0.2rem;
+    display: inline-block;
+    margin-top: 1rem;
+    border-radius: 3px;
+}
+
+/*---------------- Background image styles ----------------*/
+
+.bg-image {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.square {
+    padding-bottom: 100%
+}
+
+.landscape {
+    padding-bottom: 60%;
+}
