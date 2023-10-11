@@ -1,5 +1,5 @@
 collections:
- posts:
+ archives:
    output: true
-   permalink: /posts/:year/:slug
+   
     

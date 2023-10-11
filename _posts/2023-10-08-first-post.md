@@ -1,10 +1,18 @@
 ---
 layout: post
 title: My first post
-description: Obcaecati dignissimos cumque at, recusandae natus delectus, soluta officiis corporis nostrum, autem enim doloribus est fugit unde.
+description: >-
+    Obcaecati dignissimos cumque at, recusandae natus delectus, soluta officiis corporis nostrum, autem enim doloribus est fugit unde.
 author: Pabben
+featured: true
 categories: ['travel', 'usa']
 featured_image: https://instituteofcode.com/houdini.jpg
+seo:
+  title:
+  description:
+  social_image:
+  keywords:
+  hide-from-gooel: false 
 ---
 
 ## Adventures in USA

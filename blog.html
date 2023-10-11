@@ -3,17 +3,27 @@ layout: default
 title: Blog page
 ---
 
-<section class="grid">
+<section class="padded-md">
+    
+    <div class="capped-width grid-center">
+        <div class="col-9 padded-05 center margin-b-1">
+            <h1> Latest on the blog </h1>
+        </div>
 
-    {% for post in site.posts %}
+        {% for post in site.posts limit:12 %}
 
-    <div class="col-4_xs-12">
-        <div class="bg-image square" style="background-image: url(' {{ post.featured_image }} ')"></div>
-        <h3> {{ post.title }} </h3>
-        <p> {{ post.description }} </p>
-        <a href="{{ post.url }}"> Read more </a>
+        <div class="col-4_xs-12 post-item padded-1">
+            <div class="bg-image square" style="background-image: url(' {{ post.featured_image }} ')"></div>
+
+            <div class="padded-t-1 padded-b-1">
+                <h2 class="margin-t-1"> {{ post.title }} </h2>
+                <p> {{ post.description }} </p>
+                <a href="{{ post.url }}" class="subtle-button"> Read more </a>
+            </div>
+        </div>
+
+        {% endfor %}
+        
     </div>
-
-    {% endfor %}
 
 </section>

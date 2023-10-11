@@ -1,0 +1,23 @@
+---
+layout: default
+title: Travel Posts
+category: travel
+---
+
+<section class="padded-md grid">
+
+    {% for post in site.categories [page.category] %}
+
+    <div class="col-4_xs-12 post-item padded-1">
+        <div class="bg-image square" style="background-image: url(' {{ post.featured_image }} ')"></div>
+
+        <div class="padded-t-1 padded-b-1">
+            <h2 class="margin-t-1"> {{ post.title }} </h2>
+            <p> {{ post.description }} </p>
+            <a href="{{ post.url }}" class="subtle-button"> Read more </a>
+        </div>
+    </div>
+
+    {% endfor %}
+
+</section>

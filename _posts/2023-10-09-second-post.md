@@ -1,10 +1,18 @@
 ---
 layout: post
 title: My second post
-description: Culpa, earum dicta? Dolor quisquam consectetur placeat corrupti tenetur soluta itaque non deserunt labore, doloribus sapiente sint.
+description:  >-
+    Culpa, earum dicta? Dolor quisquam consectetur placeat corrupti tenetur soluta itaque non deserunt labore, doloribus sapiente sint.
 author: Pennanen
+featured: true
 categories: ['travel', 'canada']
 featured_image: https://instituteofcode.com/nala.jpg
+seo:
+  title:
+  description:
+  social_image:
+  keywords:
+  hide-from-gooel: false
 ---
 
 ## Adventures in Canada
