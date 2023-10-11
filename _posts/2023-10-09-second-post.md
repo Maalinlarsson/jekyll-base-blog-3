@@ -6,7 +6,7 @@ description:  >-
 author: Pennanen
 featured: true
 categories: ['travel', 'canada']
-featured_image: https://instituteofcode.com/nala.jpg
+featured_image: /images/canada.jpg
 seo:
   title:
   description:

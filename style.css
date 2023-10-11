@@ -70,7 +70,7 @@ html { scroll-behavior: smooth; }
 .tall-100               { min-height: 100vh;                 }
 
 .bg-light               { background-color: lightgray;     }
-.bg-dark                { background-color: var(--dark);     }
+.bg-dark                { background-color: grey;          }
 
 .text-light             { color: white;                    }
 .text-lg                { font-size: 4.5rem;                 }
@@ -101,9 +101,12 @@ body {
     font-family: 'Mulish', sans-serif;
 }
 
+h1 { font-family: 'Martel', serif; }
+
 h2, h3, h4, h5, h6 {
     margin-bottom: 0.5rem;
     letter-spacing: -0.01em;
+    font-family: 'Martel', serif;
 }
 
 h2 {

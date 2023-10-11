@@ -6,7 +6,7 @@ description: >-
 author: Pabben
 featured: true
 categories: ['travel', 'usa']
-featured_image: https://instituteofcode.com/houdini.jpg
+featured_image: /images/manhattan.jpg
 seo:
   title:
   description:

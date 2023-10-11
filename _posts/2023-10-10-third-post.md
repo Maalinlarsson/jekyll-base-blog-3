@@ -6,7 +6,7 @@ description:  >-
 author: The four penguins
 featured: true
 categories: ['sports', 'ice-hockey']
-featured_image: https://instituteofcode.com/houdini.jpg
+featured_image: /images/hockey.jpg
 seo:
   title:
   description:
