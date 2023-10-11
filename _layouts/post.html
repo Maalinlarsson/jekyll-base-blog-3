@@ -12,7 +12,7 @@ layout: default
             <p> Written by {{ page.author }} </p>
             <p> {{ page.date | date_to_long_string }} </p>
 
-            <!-- This loop is for outputting your categories -->
+            <!-- This loop is for outputting your categories in a style with button -->
             {% for item in page.categories  %}
                 <span class="tag"> {{ item }} </span>
             {% endfor %}

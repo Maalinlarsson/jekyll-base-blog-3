@@ -1,3 +1,8 @@
+/*
+    font-family: 'Martel', serif;
+    font-family: 'Mulish', sans-serif;
+*/
+
 
 /*---------------- Universal reset ----------------*/
 * {
@@ -6,12 +11,34 @@
     box-sizing: border-box;
 }
 
+body {
+    font-family: 'Mulish', sans-serif;
+}
+
+a {
+    text-decoration: none;
+    padding: 0.2rem;
+}
+
 /*---------------- Utility styles ----------------*/
 .padded-1 {
     padding: 1rem;
 }
 
+.bg-light {
+    background-color: lightgray;
+}
+
 /*---------------- Header and footer styles ----------------*/
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Martel', serif;
+}
+
 header,
 footer,
 section {
@@ -34,7 +61,6 @@ section {
 }
 
 /*---------------- Background image styles ----------------*/
-
 .bg-image {
     background-size: cover;
     background-position: center;
