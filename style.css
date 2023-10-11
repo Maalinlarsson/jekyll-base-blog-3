@@ -197,10 +197,18 @@ section {
     background-repeat: no-repeat;
 }
 
-.square {
-    padding-bottom: 100%
-}
+/* Aspect ratio */
+.portrait-tall  { padding-bottom: 175%;              }
+.portrait       { padding-bottom: 125%;              }
+.square         { padding-bottom: 100%;              }
+.landscape      { padding-bottom: 66%;               }
+.landscape-wide { padding-bottom: 56%;               }
 
-.landscape {
-    padding-bottom: 60%;
-}
+/* Background position */
+.bg-pos-t       { background-position: top;          }
+.bg-pos-b       { background-position: bottom;       }
+.bg-pos-l       { background-position: left;         }
+.bg-pos-r       { background-position: right;        }
+
+.bg-pos-t-l     { background-position: left top;     }
+.bg-pos-b-r     { background-position: right bottom; }
